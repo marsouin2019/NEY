@@ -1,0 +1,78 @@
+body{ color: gray;
+      background-color: lightskyblue;
+      font-size: 18px;
+      width: 980px;
+      margin: auto auto
+     }
+header{ width: 980;
+        height: 100;
+        display: flex;
+       }
+
+.logo  { width: 300px;
+         height: 300px;
+        
+        
+        }
+.search { width: 780px;
+     
+
+        }  
+.compte img {  width: 50px;
+               height: 50px;
+            }            
+h1   {
+           font-size: 60px;
+           text-align: center;
+           color: darkgoldenrod;
+           text-decoration: underline;
+           text-transform: uppercase;
+           height: 130px
+
+     }
+h2   { font-size: 30px;
+          text-decoration: underline;
+          color: blue;
+          text-transform: capitalize;  
+     }
+p    { font-size: 18px;
+        color:blue;
+        font-style:italic ;
+
+        }
+nav >ul li{ position: relative;
+            float: left;
+            list-style: none;
+            width: 180px;
+            height: 55px;
+
+          }
+article{
+          display: flex; 
+          margin-bottom: 50px;
+           } 
+
+article > p{ padding: 20px;}
+ 
+article > img { width: 285px;
+                height: 172px;
+                margin-bottom: 25px;
+               }
+
+article:last-child{ flex-direction: column; 
+                   }
+article:last-child>ul{ position: absolute;
+                       margin-left: 300px;
+                     }
+main{ padding: 20px;}
+footer{ width: 980px;
+        background-color: aquamarine;
+        display: flex;
+        flex-wrap: wrap; 
+        }
+footer > nav{ width: 490px;
+              height: 150px;} 
+
+footer > address{ width: 490px;
+                  height: 150px;}
+                  
