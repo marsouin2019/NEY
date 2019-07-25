@@ -1,0 +1,30 @@
+#titre {
+    color: blue 
+}
+img{
+    background-color: burlywood 
+}
+.sidebear{background-image: url(image/background_sidebar.jpg);}
+
+#logo {
+	position:absolute;
+	left: 280px;
+	top:40px;}
+	
+.Style5 {
+	position:absolute;
+	left: 308px;
+	top: 31px;
+	font-family: Gabriola, "Gentium Basic", Georgia; 
+	font-size: 36px;
+    color:#FFFFFF;}
+    
+.Style6{
+    position:absolute;
+	left: 200px;
+	top: 110px;
+	font-family: Gabriola, "Gentium Basic", Georgia; 
+	font-size: 20px;
+    color:#FFFFFF; 
+     }
+
