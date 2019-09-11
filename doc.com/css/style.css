@@ -1,0 +1,143 @@
+body{
+   
+    background-image: linear-gradient(315deg, #5ca0f2 40%, #f5f7f6 74%);
+    background-repeat: no-repeat;
+    background-size: 235%;
+
+}
+
+img {
+	width: 100px;
+    height: 100px;
+     
+   
+}
+
+
+
+.h1{
+   
+    text-align: center; 
+    margin-top: 100px;
+    
+}
+
+
+.icones{
+    text-align: right;
+    margin-top: 20px;
+    
+    
+}
+
+.icones > a{
+    color: black;
+}
+
+.h3{
+ 
+    text-align: center;
+    margin-top: 200px;
+}
+
+.h4{
+ 
+    text-align: center;
+    margin-top: 100px;
+   
+}
+
+h1{
+    line-height: 140%;
+     margin-top: 100px;
+}
+
+h2{
+    margin-bottom: 100px;
+}
+
+h3{
+    font-style: italic;
+    font-variant: small-caps;
+
+    margin-bottom: 100px;
+    text-align: center;
+    
+}
+
+.descriptif{
+    width: 600px;
+    height: 100px;
+    margin-top: 200px;
+    font-family: monospace;
+    font-variant: small-caps;
+}
+
+.copyright{
+    width: 100px;
+    height: 100px;
+    margin-top: 200px;
+    font-family: monospace;
+    font-variant: small-caps;
+}
+.info{
+  
+    right: 100%;
+    margin-top: 200px;
+    font-family: monospace;
+    font-variant: small-caps;
+}
+
+h4{
+    margin-top: 50px;
+}
+
+.navbar{
+    text-align: left;
+    margin-top: 50px;
+}
+
+.navbar > li > a{
+    color: black;
+}
+
+ul > li{
+    display: inline;
+    margin: auto 20% auto auto;
+
+}
+
+.tag{
+   
+    text-align: center;
+    margin-top: 50px;
+    
+    
+}
+
+iframe {
+    margin-top: 100px;
+
+}
+
+ .liste{
+    margin-top: 100px;
+
+}
+
+.ol{
+    margin-top: 100px;
+}
+
+[required] {
+    border: 2px dotted orange;
+ }
+
+ form{
+    font-family: monospace;
+    font-variant: small-caps;
+
+    
+
+ }
+   

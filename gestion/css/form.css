@@ -1,0 +1,11 @@
+.error{
+    border: 1px solid red;
+    background-color: pink;
+}
+
+.btn.btn-default {
+    outline: none !important;
+    a:active {
+      background-color: darken(#95a5a6, 20%) !important;}
+    
+  }
