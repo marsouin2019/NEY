@@ -138,8 +138,9 @@ width: 980px;
 /*Style image contenue et text*/
 
 .imgT{
-  width: 500px;
-  margin-top: 20px;
+  width: 400px;
+  margin-left: 250px;
+
  }
 
  .imgL{
@@ -151,6 +152,25 @@ width: 980px;
   
  }
 
+ .imgE{
+   width: 700px;
+   margin-left: 100px;
+ }
+
+ .imgz{
+   width: 800px;
+   height: 400px;
+   margin-top: 20px;
+
+ }
+ .imgR{
+  width: 800px;
+  height: 400px;
+ }
+
+ .imgY{
+   margin: 30px
+ }
 .contentL{
   
   margin-top: 55px;
