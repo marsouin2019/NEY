@@ -7,63 +7,78 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-     <link rel="stylesheet" href="styl.css">
+    <link rel="stylesheet" href="css/styl.css">
+    <link rel="stylesheet" href="css/contact.css">
     <title>Hello, world!</title>
+    
   </head>
   <body>
-        <div class="container">
-                <div class="row">
-                  <div class="col-3 sidebear">
-                      <img src="/portfolio_2/image/logo.jpg" alt="">
-                  <ul>
-                        <li><a href="/portfolio_2/index.html">Accueil</a></li>
-                        <li><a href="/portfolio_2/projet.html">Projet</a></li>
-                        <li><a href="/portfolio_2/contact.html">Contact</a></li>
-                        <li><a href="/portfolio_2/apropos.html">À propos</a></li>
-                  </ul>
-                  </div>
-                  <div class="col-9">
-                   <h1>Ney Yvonne</h1>
-                   <table class="table table-striped table-dark">
-                        <thead>
-                          <tr>
-                            <th scope="col">#</th>
-                            <th scope="col">NOM</th>
-                            <th scope="col">Ney</th>
-                           
-                          </tr>
-                        </thead>
-                        <tbody>
-                          <tr>
-                            <th scope="row">1</th>
-                            <td>PRENOM</td>
-                            <td>Yvonne</td>
-                            
-                          </tr>
-                          <tr>
-                            <th scope="row">2</th>
-                            <td>Address</td>
-                            <td>RSMA Gondau</td>
-                            
-                          </tr>
-                          <tr>
-                            <th scope="row">3</th>
-                            <td>N°tel</td>
-                            <td>0694004186</td>
-                           
-                          </tr>
-                          <tr>
-                                <th scope="row">4</th>
-                                <td>Mail</td>
-                                <td>neyyvonne51@gmail.com</td>
-                               
-                              </tr>
-                        </tbody>
-                      </table>
-                   <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQijThTw1PSTc7I-cwY-7Yw8X4puAS3uFu3ByWhpMmipGueljLa" alt="">
-                  </div>
-                </div>
+      <header>
+          <div class="container">
+            <div class="row">
+              <div class="col">
+                  
+                     
+                 
+              <h1><span class="cyan">MON </span>PORTFOLIO<i class="fas fa-map-marker-alt"></i></h1>
               </div>
+              <div class="col">
+               <p class="pHeader"><strong>Ney yvonne</strong> <i class="fas fa-square"></i></p>
+              </div>
+            </div>
+          </div>
+       </header>  
+    <nav class="menu">
+    <div class="container">
+            <div class="container">
+                <div class="row">
+                    <div class="col">
+                      
+                        <ul class="lAccount">
+                             
+                          <li><a href="/portfolio_2/projet.html"><i class="fas fa-bookmark"></i>Acueil</a></li>
+                          <li><a href="/portfolio_2/apropos.html"><i class="fas fa-envelope"></i>Apropos</a></li>
+                          <li><a href="/portfolio_2/competance.html"><i class="fas fa-envelope"></i>Compétance actuel</a></li>
+                          <li><a href="/portfolio_2/contact.html"><i class="fas fa-envelope"></i>Contact</a></li>
+                          
+                        </ul>
+                    </div>
+                </div>
+            </div>
+    </div>
+    </nav>
+        
+                    <div class="container content">
+                        <form>
+                            <div class="form-group">
+                                <label for="exampleInputEmail1">Nom</label>
+                                <input type="text" class="form-control" id="exampleInputNom" aria-describedby="nomHelp" placeholder="Enter nom" required>
+                                <small id="nomHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+                              </div>
+                            <div class="form-group">
+                                <label for="exampleInputEmail1">Prénom</label>
+                                <input type="text" class="form-control" id="exampleInputPrenom" aria-describedby="prenomHelp" placeholder="Enter prenom" required>
+                                <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+                              </div>
+                            <div class="form-group">
+                              <label for="exampleInputEmail1">Email </label>
+                              <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email" required>
+                              <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+                            </div>
+                            <div class="form-group">
+                                <label for="exampleInputEmail1">Tel </label>
+                                <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailTel" placeholder="Enter tel" required>
+                                <small id="telHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+                              </div>
+
+                            <div class="form-group">
+                                <label for="exampleFormControlTextarea1">Votre message</label>
+                                <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea required>
+                              </div>
+                            
+                              <button type="submit" class="btn btn-primary">Envoyer</button>
+                          </form>
+                        
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->

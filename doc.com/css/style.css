@@ -1,33 +1,51 @@
 body{
-   
+    background-color: #5ca0f2;
     background-image: linear-gradient(315deg, #5ca0f2 40%, #f5f7f6 74%);
     background-repeat: no-repeat;
     background-size: 235%;
+    font-family: 'Roboto Condensed', sans-serif;
 
 }
 
 img {
-	width: 100px;
-    height: 100px;
-     
+	width: 150px;
+    height: 150px;
    
 }
 
+h4{
+    text-align: center;
+    font-family: 'Dancing Script', cursive!important;
+    color: #0f3b70!important;
+    font-size: 40px!important;
 
+}
+
+
+#submit{
+    background-color: #5ca0f2;
+    border: #f5f7f6;
+    margin: 0 0 8% 0;
+    
+}
+
+#submit:hover{
+    background-image: linear-gradient(315deg, #5ca0f2 0%, #DCDCDC 84%)
+
+}
 
 .h1{
-   
     text-align: center; 
-    margin-top: 100px;
-    
+    margin: 5% 0 8% 0;
+    text-align: center;
+    color: #0f3b70!important;
+    font-size: 35px!important;
 }
 
 
 .icones{
     text-align: right;
-    margin-top: 20px;
-    
-    
+    margin-top: 20px;   
 }
 
 .icones > a{
@@ -35,21 +53,14 @@ img {
 }
 
 .h3{
- 
     text-align: center;
     margin-top: 200px;
 }
 
 .h4{
- 
     text-align: center;
-    margin-top: 100px;
+    margin : 5% 0 5% 0;
    
-}
-
-h1{
-    line-height: 140%;
-     margin-top: 100px;
 }
 
 h2{
@@ -57,40 +68,10 @@ h2{
 }
 
 h3{
-    font-style: italic;
-    font-variant: small-caps;
-
     margin-bottom: 100px;
-    text-align: center;
-    
 }
 
-.descriptif{
-    width: 600px;
-    height: 100px;
-    margin-top: 200px;
-    font-family: monospace;
-    font-variant: small-caps;
-}
 
-.copyright{
-    width: 100px;
-    height: 100px;
-    margin-top: 200px;
-    font-family: monospace;
-    font-variant: small-caps;
-}
-.info{
-  
-    right: 100%;
-    margin-top: 200px;
-    font-family: monospace;
-    font-variant: small-caps;
-}
-
-h4{
-    margin-top: 50px;
-}
 
 .navbar{
     text-align: left;
@@ -103,41 +84,33 @@ h4{
 
 ul > li{
     display: inline;
-    margin: auto 20% auto auto;
+    margin: auto 10% auto auto;
 
 }
+.container-form{
+    margin-left:35% ;
+    margin-right:35%;
+}
+.descriptif{
+    font-size: 12px;
+    text-align: justify;
+    
+}
+.copyright{
+    font-size: 12px;
+    text-align: justify;
+    
+}
 
-.tag{
-   
+.navbar{
+    background-color: #5ca0f2;
+    background-image: linear-gradient(315deg, #5ca0f2 40%, #f5f7f6 55%);
+    background-repeat: no-repeat;
+    
+}
+
+.symbole{
     text-align: center;
-    margin-top: 50px;
-    
-    
+    margin-top: 20%;
+    font-size: 12px;
 }
-
-iframe {
-    margin-top: 100px;
-
-}
-
- .liste{
-    margin-top: 100px;
-
-}
-
-.ol{
-    margin-top: 100px;
-}
-
-[required] {
-    border: 2px dotted orange;
- }
-
- form{
-    font-family: monospace;
-    font-variant: small-caps;
-
-    
-
- }
-   
