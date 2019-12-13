@@ -13,11 +13,11 @@
         </div>
 
         <div class="col-4.5 colN">
+            
             <ul class="nav renay">
                 <li> <a href="index.php"> <i class="button hvr-float iconH fa fa-home"> </a></i></li>
                 <li><a  rel="float" class="button hvr-float"  href="formation.php">Nos formations</a></li>
-                <li><a  rel="float" class="button hvr-float"  href="inscription.php">Inscription</a></li>  
-                <li><a  rel="float" class="button hvr-float"  href="coordonnes.php">Contact</a></li>  
+                <li><a  rel="float" class="button hvr-float"  href="coordonnees.php">Contact</a></li>  
                 
             </ul>
         </div>
