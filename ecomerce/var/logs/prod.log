@@ -1,0 +1,6 @@
+[2020-01-07 19:18:38] app.ERROR: Data from PrestaShop Addons is invalid, and cannot fallback on cache.  {"exception":"cURL error 28: Operation timed out after 5000 milliseconds with 262637 bytes received"} []
+[2020-01-07 19:18:42] app.ERROR: Class "AdminLinkWidgetController" not found in controllers/admin [] []
+[2020-01-07 19:18:47] app.INFO: Exporting mail with theme modern for language Français (French) [] []
+[2020-01-07 19:18:47] app.INFO: Core output folder: /var/www/html/ecomerce/mails [] []
+[2020-01-07 19:18:47] app.INFO: Modules output folder: /var/www/html/ecomerce/modules/ [] []
+[2020-01-07 19:22:58] app.ERROR: Data from PrestaShop Addons is invalid, and cannot fallback on cache.  {"exception":"cURL error 28: Operation timed out after 5000 milliseconds with 379069 bytes received"} []

@@ -1,0 +1,50 @@
+html,
+    body,
+    .view {
+      height: 100%;
+    }
+  
+    @media (max-width: 740px) {
+      html,
+      body,
+      .view {
+        height: 1000px;
+      }
+    }
+    @media (min-width: 800px) and (max-width: 850px) {
+      html,
+      body,
+      header,
+      .view {
+        height: 650px;
+      }
+    }
+  
+    .top-nav-collapse {
+      background-color:  	rgb(214, 28, 28) !important;
+    }
+  
+  
+  
+    @media (max-width: 991px) {
+     .navbar:not(.top-nav-collapse) {
+      background: 	rgb(235, 16, 16)!important;
+     }
+    }
+    
+    .rgba-gradient {
+      background: linear-gradient(45deg, rgba(0, 0, 0, 0.7), rgba(72, 15, 144, 0.4) 100%);
+    }
+  
+    .card {
+      background-color: rgba(126, 123, 215, 0.2);
+    }
+  
+    
+  
+    h6 {
+      line-height: 1.7;
+    }
+
+    .mt-5, .my-5 {
+      margin-top: 9rem !important;

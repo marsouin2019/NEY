@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => '127.0.0.1',
+    'database_port' => '',
+    'database_name' => 'ecommerce',
+    'database_user' => 'ney973',
+    'database_password' => 'stargyal973',
+    'database_prefix' => 'ps_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => '9VTARIbs9TQkt7KvvdMk7eeJ256dmejYjipaLiCafnWzJ7psd6S5HGrt',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2020-01-07',
+    'locale' => 'fr-FR',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'wfXfukcoEpKr0OyCMoUTp6kXexGTbfS7fX5usTIxYPdI0oNd9a6xsK98',
+    'cookie_iv' => '6UPuQcqy',
+    'new_cookie_key' => 'def00000c03fee0c33de8d183e0024b865f9f6708f5e13a5ac675f8872231feedfb15107a58ee0b66d726bbf4279432a2e25f2b4a28cad9d9b8b38c953c220053365c10b',
+  ),
+);

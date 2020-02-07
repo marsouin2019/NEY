@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/fr/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/fr/blog/feed.xml</link>
+    <description></description>
+    <language>fr</language>
+     <atom:link href="https://www.prestashop.com/fr/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Comment effectuer une veille sociale de qualité ?</title>
+    <link>https://www.prestashop.com/fr/blog/comment-effectuer-veille-sociale-qualite</link>
+    <description>Activité incontournable pour identifier et comprendre le besoin de ses clients, beaucoup d’e-commerçants n’exploitent pas encore tout le potentiel de la veille sociale.</description>
+     <pubDate>Thu, 09 Jan 2020 13:51:21 +0100</pubDate>
+ <dc:creator>YATEO</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/comment-effectuer-veille-sociale-qualite</guid>
+  </item>
+  <item>
+    <title>Alerte de sécurité : votre boutique peut être vulnérable à un malware. Voici la procédure à suivre</title>
+    <link>https://www.prestashop.com/fr/blog/alerte-securite-votre-boutique-peut-etre-vulnerable</link>
+    <description>mis à jour le 09/01/2020, 10 h 20</description>
+     <pubDate>Wed, 08 Jan 2020 12:22:41 +0100</pubDate>
+ <dc:creator>L&#039;équipe PrestaShop</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/alerte-securite-votre-boutique-peut-etre-vulnerable</guid>
+  </item>
+  <item>
+    <title>E-commerce : tout savoir sur les soldes</title>
+    <link>https://www.prestashop.com/fr//blog/soldes-2020-comment-ca-marche</link>
+    <description>Après avoir dépensé plus de 20 milliards d’euros en ligne pour Noël, les Français vont bientôt se mobiliser pour les soldes. Promotions, bonnes affaires, prix cassés… sont de retour !</description>
+     <pubDate>Mon, 06 Jan 2020 16:32:27 +0100</pubDate>
+ <dc:creator>L&#039;équipe PrestaShop</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr//blog/soldes-2020-comment-ca-marche</guid>
+  </item>
+  <item>
+    <title>Chiffres clés des sports d’hiver</title>
+    <link>https://www.prestashop.com/fr/blog/chiffres-cles-des-sports-d-hiver</link>
+    <description>Dès le début du mois de novembre, certaines stations affichaient plus d’1 mètre de poudreuse et ont d’ores et déjà ouvert leurs premières pistes.</description>
+     <pubDate>Fri, 20 Dec 2019 13:57:18 +0100</pubDate>
+ <dc:creator>L&#039;équipe PrestaShop</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/chiffres-cles-des-sports-d-hiver</guid>
+  </item>
+  <item>
+    <title>Comment calculer son panier moyen</title>
+    <link>https://www.prestashop.com/fr/blog/calculer-panier-moyen</link>
+    <description>En e-commerce, il y a certains indicateurs clés à connaître absolument pour espérer connaître le succès.</description>
+     <pubDate>Wed, 18 Dec 2019 11:04:38 +0100</pubDate>
+ <dc:creator>Johan Letrouit</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/calculer-panier-moyen</guid>
+  </item>
+  <item>
+    <title>Que sont les marketplaces et comment en tirer profit ?</title>
+    <link>https://www.prestashop.com/fr/blog/quest-ce-que-les-marketplace-et-comment-en-tirer-profit</link>
+    <description>Avez-vous essayé de vendre vos produits sur une marketplace pour augmenter la visibilité de vos produits ?</description>
+     <pubDate>Mon, 16 Dec 2019 15:36:36 +0100</pubDate>
+ <dc:creator>Eva Lacalle</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/quest-ce-que-les-marketplace-et-comment-en-tirer-profit</guid>
+  </item>
+  <item>
+    <title>5 raisons d’intégrer un module questions/réponses</title>
+    <link>https://www.prestashop.com/fr/blog/5-raisons-integrer-module-questions-reponses</link>
+    <description>Lorsqu’il s’agit d’acheter en ligne, les internautes sont particulièrement méfiants et se posent de nombreuses questions.</description>
+     <pubDate>Fri, 13 Dec 2019 16:42:03 +0100</pubDate>
+ <dc:creator>YATEO</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/5-raisons-integrer-module-questions-reponses</guid>
+  </item>
+  <item>
+    <title>Faire de la livraison un levier de conversion</title>
+    <link>https://www.prestashop.com/fr/blog/livraison-un-levier-de-conversion</link>
+    <description>Bien convertir sur un site marchand est l’un des enjeux principaux d’un e-commerçant.</description>
+     <pubDate>Wed, 11 Dec 2019 12:17:06 +0100</pubDate>
+ <dc:creator>Jessica Bourdin Filluzeau</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/livraison-un-levier-de-conversion</guid>
+  </item>
+  <item>
+    <title>Qu&amp;#039;est-ce que l&amp;#039;erreur HTTP 500 et comment la corriger sur ma boutique en ligne PrestaShop ?</title>
+    <link>https://www.prestashop.com/fr/blog/erreur-500-prestashop-suivez-le-guide</link>
+    <description>
+Vous-est-il déjà arrivé qu&#039;en naviguant sur votre site, l&#039;écran devienne blanc et qu&#039;une anomalie appelée &quot;erreur HTTP 500&quot; apparaisse ?</description>
+     <pubDate>Tue, 10 Dec 2019 18:23:56 +0100</pubDate>
+ <dc:creator>Eva Lacalle</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/erreur-500-prestashop-suivez-le-guide</guid>
+  </item>
+  <item>
+    <title>Les chiffres clés des achats de Noël en France</title>
+    <link>https://www.prestashop.com/fr/blog/chiffres-noel-2019-france-ecommerce</link>
+    <description>Les achats liés aux fêtes de Noël représentent en moyenne 20% du chiffre d’affaires annuel des e-marchands. En 2019, il devrait dépasser les 20 milliards d’euros.</description>
+     <pubDate>Fri, 06 Dec 2019 11:44:55 +0100</pubDate>
+ <dc:creator>L&#039;équipe PrestaShop</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/chiffres-noel-2019-france-ecommerce</guid>
+  </item>
+  </channel>
+</rss>
