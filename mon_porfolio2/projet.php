@@ -100,7 +100,7 @@
   <hr>
     <!-- Pager -->
     <div class="clearfix">
-          <a class="btn btn-primary float-right" href="http://localhost/mon_porfolio2/contact.php">Page suivante &rarr;</a>
+          <a class="btn btn-primary float-right" href="mon_porfolio2/contact.php">Page suivante &rarr;</a>
   </div>
 </div>
 <!-- Footer -->
