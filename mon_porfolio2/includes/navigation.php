@@ -10,7 +10,7 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="index.php">Acueil</a>
+            <a class="nav-link" href="index.php">Accueil</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="a_propos.php">À Propos</a>

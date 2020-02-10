@@ -88,7 +88,7 @@
               
      
             <div >   
-            <h3>Création d'un formulaire sucuriser</h3>
+            <h3>Création d'un formulaire sécuriser</h3>
               <p>Pour un projet fin d'études j'ai créé une page contact, avec un formulaire sécuriser et une google map.
               </p>
                 <img  class="info"  src="img/doc_contact.png"  height="352" width="1070" alt="">  
