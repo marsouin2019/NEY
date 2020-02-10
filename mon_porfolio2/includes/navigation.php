@@ -16,7 +16,7 @@
             <a class="nav-link" href="a_propos.php">À Propos</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="projet.php">Pojet</a>
+            <a class="nav-link" href="projet.php">Projet</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="contact.php">Contact</a>
