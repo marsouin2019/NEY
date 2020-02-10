@@ -41,13 +41,7 @@ function send_email( $email, $sujet,$nom,$prenom,$tel,$message)
     
     if(mail($to, $sujet, $msg, $headers))
     {
-        echo"<html>
-        <head>
-            <title>Message Envoyé !</title>
-        </head>
-        <body onLoad=\"javascript:alert(' Votre message a bien été envoyer,je vous répondrai dans les plus brefs délais!');neyyvonne.yj.fr='contact.php'\">
-        </body>
-            </html>";
+      'Envoie succes';
     }
    
         
