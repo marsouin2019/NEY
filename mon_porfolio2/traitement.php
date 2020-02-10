@@ -45,7 +45,7 @@ function send_email( $email, $sujet,$nom,$prenom,$tel,$message)
         <head>
             <title>Message Envoyé !</title>
         </head>
-        <body onLoad=\"javascript:alert(' Votre message a bien été envoyer,je vous répondrai dans les plus brefs délais!');window.neyyvonne.yj.fr='contact.php'\">
+        <body onLoad=\"javascript:alert(' Votre message a bien été envoyer,je vous répondrai dans les plus brefs délais!');neyyvonne.yj.fr='contact.php'\">
         </body>
             </html>";
     }
