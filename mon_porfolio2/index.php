@@ -48,7 +48,7 @@
             </h2>
             <h3 class="post-subtitle">Royal Amazonia (Stage)</h3>
           </a>
-          <p class="post-meta">Rangement des chambres Nettoyage complet des chambre, Changement des drap et serviettes</p>
+          <p class="post-meta">Rangement des chambres Nettoyage complet des chambres, Changement des draps et serviettes</p>
         </div>
         <hr>
         <div class="post-preview">
@@ -61,32 +61,32 @@
             </h3>
           </a>
           <p class="post-meta">Préparation préliminaires et service en salle, Réalisation de différente barquette, découpage de légumes...
-            Prise des commandes, service des plats, rangement de vestiaire, mis en place des tables</p>
+            Prise des commandes, service des plats, rangement de vestiaire, mise en place des tables</p>
         </div>
         <hr>
         <div class="post-preview">
           <a href="a_propos.php">
             <h2 class="post-title">
-             Centre d'interêt / Hobbit
+             Centres d'interêts / Hobbies
             </h2>
             <h3 class="post-subtitle">
             Sport, Lecture, Loisir
             </h3>
           </a>
-          <p class="post-meta">Je pratique différent sport , et m'exerce a la lecture ainsi que diffient hobbit pour occuper mes journée</p>
+          <p class="post-meta">Je pratique différents sports , et m'exerce à la lecture ainsi que différents hobbies pour occuper mes journées</p>
         </div>
         <hr>
-          <!-- Pager -->
-  <div class="clearfix">
-          <a class="btn btn-primary float-right" href="http://localhost/mon_porfolio2/a_propos.php">Page suivante &rarr;</a>
-  </div>
+  
       </div>
     </div>
   </div>
 
   <hr>
-
-  <!-- Footer -->
-  <?php
+ <!-- Pager -->
+ <div class="clearfix">
+          <a class="btn btn-primary float-right" href="projet.php">Page suivante &rarr;</a>
+  </div>
+<!-- Footer -->
+<?php
   include("includes/footer.php");
 ?>
