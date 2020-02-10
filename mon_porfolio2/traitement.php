@@ -1,7 +1,4 @@
 <?php
-
-/*
-
 require 'class/PHPMailer/src/Exception.php';
 require 'class/PHPMailer/src/PHPMailer.php';
 require 'class/PHPMailer/src/SMTP.php';
@@ -14,19 +11,24 @@ use PHPMailer\PHPMailer\Exception;
 require '../vendor/autoload.php';
 
 $mail = new PHPMailer();
-print_r($mail);
 
-*/
 
+
+$msg = new envoyer_email($_POST);
+$msg->send_email($mail);
+
+
+
+/*
 $nom = htmlentities($_POST['nom']);
 $prenom = htmlentities($_POST['prenom']);
 $email = htmlentities($_POST['email']);
 $sujet = htmlentities($_POST['sujet']);
 $tel = htmlentities($_POST['tel']);
 $message = htmlentities($_POST['message']);
+*/
 
-
-
+/*
 //envoie email
 
 
@@ -41,18 +43,19 @@ function send_email( $email, $sujet,$nom,$prenom,$tel,$message)
     
     if(mail($to, $sujet, $msg, $headers))
     {
-      'Envoie succes';
+        echo"<html>
+        <head>
+            <title>Message Envoyé !</title>
+        </head>
+        <body onLoad=\"javascript:alert(' Votre message a bien été envoyer,je vous répondrai dans les plus brefs délais!');neyyvonne.yj.fr='contact.php'\">
+        </body>
+            </html>";
     }
    
         
 }
-
+*/
 
 
 //exécution function
-send_email( $email, $sujet,$nom,$prenom,$tel,$message);
-
-/*
-$msg = new envoyer_email($_POST);
-$msg->send_email($mail);
-*/
+//send_email( $email, $sujet,$nom,$prenom,$tel,$message);
