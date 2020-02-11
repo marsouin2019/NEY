@@ -40,7 +40,8 @@ class envoyer_email
             $phpMailer->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;   
             $phpMailer->Port       = 587;  
 
-            $phpMailer->setFrom($this->email, $this->nom); 
+            $phpMailer->setFrom($this->email, $this->nom);
+            $phpMailer->addAddress ('neyyvonne51@gmail.com');   
             //$mail->addAddress('ellen@example.com');               // Name is optional
             $phpMailer->addReplyTo($this->email, 'Information');  
             $phpMailer->addCC($this->email);   
